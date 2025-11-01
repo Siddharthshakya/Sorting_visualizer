@@ -1,0 +1,1 @@
+This is a Project which has been built using MERN stack technology and to check which sorting technique is used in the specific proeject or code. While building this project i got to learn about how the diffrent Sorting techniques work and how things works in Data structure and Algorithms.
